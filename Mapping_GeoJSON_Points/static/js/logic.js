@@ -110,8 +110,8 @@ d3.json(airportData).then(function(data) {
   .addTo(map);
 });
 
-// Then we add our 'graymap' tile layer to the map.
-streets.addTo(map);
+// // Then we add our 'graymap' tile layer to the map.
+// streets.addTo(map);
 
 // // To change the map's style, change the map id using the list of Mapbox ids below:
 
